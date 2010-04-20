@@ -1,0 +1,1 @@
+git.exe push    "git@github.com:sui/dosei.git" master
